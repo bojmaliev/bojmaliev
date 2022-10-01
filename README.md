@@ -1,16 +1,54 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Martin Bojmaliev</h1>
+<h3 align="center">Software Engineer in Venikom 🌟.</h3>
 
-<!--
-**Bojmaliev/bojmaliev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="right"> <h3>Profile Views: </h3> <img src="https://komarev.com/ghpvc/?username=bojmaliev&label=Profile%20views&color=0e75b6&style=flat"
+    alt="bojmaliev" /> 
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+
+- 🌱 I’m currently working on [Bike Computer](https://bikecomputer.co/)
+
+- 📫 How to reach me **mbojmaliev@gmail.com**
+
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mbojmaliev/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Martin Bojmaliev" height="30" width="40" /></a>
+  <a href="https://fb.com/mbojmaliev" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="Martin Bojmaliev" height="30" width="40" /></a>
+  <a href="https://instagram.com/bojmaliev" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Martin Bojmaliev" height="30" width="40" /></a>
+ <a href="https://twitter.com/bojmaliev" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="Martin Bojmaliev" height="30" width="40" /></a>
+</p>
+
+<br>
+
+
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=bojmaliev&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="Martin B" 
+    bg_color=#808080/></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bojmaliev&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&count_private=true"
+    alt="adam-pw" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bojmaliev&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Martin b" /></p>
+      
